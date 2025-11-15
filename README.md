@@ -5,10 +5,14 @@
 **PT:**
 Esta é uma tradução feita por fã que criei para que minha namorada pudesse jogar o jogo. Esta é uma modificação de arquivos `.pak` que traduz o jogo para Português (PT).
 
+**⚠️ AVISO DE TESTES:** Eu não testei o jogo completamente traduzido, então podem ocorrer bugs dos quais não estou ciente. Se você estiver enfrentando problemas ou crashes, tente mudar o idioma do jogo para ver se o problema persiste.
+
 **IMPORTANTE:** Esta tradução **APENAS** traduz o jogo e nada mais. Use por sua própria conta e risco, pois isso provavelmente viola os Termos de Serviço (TOS) do jogo. Não tenho intenção de atualizar ou melhorar esta tradução - estou apenas aguardando uma tradução oficial.
 
 **EN:**
 This is a fan-made translation that I created so my girlfriend could play the game. This is a `.pak` file editing project that translates the game to Portuguese (PT).
+
+**⚠️ TESTING WARNING:** I did not fully test the game translated, so bugs may happen that I'm not aware of. If you are experiencing issues or crashes, you may try changing the language to see if the problem persists.
 
 **IMPORTANT:** This translation **ONLY** translates the game and nothing else. Use at your own risk, as this is probably against the game's Terms of Service (TOS). I don't intend to update or improve this translation - I'm just waiting for an official translation.
 
