@@ -18,6 +18,8 @@ This is a fan-made translation that I created so my girlfriend could play the ga
 
 ### PT:
 
+**⚠️ RECOMENDAÇÃO:** É recomendado que o jogo esteja na versão mais recente antes de instalar a tradução. Certifique-se de que o jogo está atualizado através do launcher oficial.
+
 1. **Localize a pasta do jogo:**
 
    - Navegue até a pasta de instalação do Duet Night Abyss
@@ -40,12 +42,20 @@ This is a fan-made translation that I created so my girlfriend could play the ga
    - Exemplo: `"C:\...\EM-Win64-Shipping.exe" -fileopenlog`
    - *(Screenshots serão adicionadas posteriormente)*
 
-5. **⚠️ Nota sobre atualizações do jogo:**
+5. **Execute como Administrador:**
+
+   - ⚠️ **IMPORTANTE:** Você deve executar o atalho como Administrador, caso contrário o jogo poderá falhar ao obter a versão (aconteceu comigo uma vez)
+   - Clique com o botão direito no atalho e selecione "Executar como administrador" (Run as administrator)
+   - Ou configure o atalho para sempre executar como administrador: Clique com o botão direito no atalho → Propriedades → Aba "Compatibilidade" → Marque "Executar este programa como administrador"
+
+6. **⚠️ Nota sobre atualizações do jogo:**
 
    - Se o jogo for atualizado, esta tradução pode parar de funcionar
    - Você pode precisar remover o arquivo `.pak` traduzido para o jogo funcionar novamente
 
 ### EN:
+
+**⚠️ RECOMMENDATION:** It is recommended that the game is at the latest version before installing the translation. Make sure the game is updated through the official launcher.
 
 1. **Locate the game folder:**
 
@@ -70,7 +80,13 @@ This is a fan-made translation that I created so my girlfriend could play the ga
    - Example: `"C:\...\EM-Win64-Shipping.exe" -fileopenlog`
    - *(Screenshots will be added later)*
 
-5. **⚠️ Note about game updates:**
+5. **Run as Administrator:**
+
+   - ⚠️ **IMPORTANT:** You must run the shortcut as Administrator, otherwise the game may fail to get the version (happened to me once)
+   - Right-click the shortcut and select "Run as administrator"
+   - Or configure the shortcut to always run as administrator: Right-click the shortcut → Properties → "Compatibility" tab → Check "Run this program as an administrator"
+
+6. **⚠️ Note about game updates:**
 
    - If the game is updated, this translation may stop working
    - You may need to remove the translated `.pak` file for the game to work again
@@ -167,25 +183,48 @@ To remove the translation and return to the original game:
 
 ### PT:
 
+**O jogo falha ao obter a versão:**
+- Certifique-se de que está executando o atalho como Administrador
+- O jogo precisa de permissões de administrador para atualizar a versão
+
+**O jogo não inicia após instalar a tradução:**
+- Remova o arquivo `.pak` traduzido e tente iniciar o jogo novamente pelo launcher
+- Restaure os arquivos originais do backup se necessário
+- Certifique-se de que está executando como Administrador
+- Tente novamente
+
 **A tradução não aparece no jogo:**
 - Verifique se o arquivo `.pak` está no local correto
 - Certifique-se de que adicionou o parâmetro `-fileopenlog` ao executável
+- Certifique-se de que está executando como Administrador
 
 **O jogo foi atualizado e não funciona mais:**
 - Remova o arquivo `.pak` traduzido até que uma nova versão seja disponibilizada (se houver)
 
+**⚠️ Nota sobre permissões:**
+- Na primeira vez que abri o `EM-Win64-Shipping.exe`, o jogo pediu algumas permissões estranhas. Eu não sei o porquê, mas neguei essas permissões e o jogo funcionou normalmente mesmo assim.
+
 ### EN:
+
+**Game fails to get version:**
+- Make sure you're running the shortcut as Administrator
+- The game needs administrator permissions to update versions I guess
 
 **Game won't start after installing the translation:**
 - Remove the translated `.pak` file and try starting the game again
 - Restore original files from backup if necessary
+- Make sure you're running as Administrator
 
 **Translation doesn't appear in the game:**
 - Check if the `.pak` file is in the correct location
 - Make sure you added the `-fileopenlog` parameter to the executable
+- Make sure you're running as Administrator
 
 **Game was updated and doesn't work anymore:**
 - Remove the translated `.pak` file until a new version is available (if any)
+
+**⚠️ Note about permissions:**
+- The first time I opened `EM-Win64-Shipping.exe`, the game asked for some weird permissions. I don't know why, but I denied them and the game worked normally anyway.
 
 ---
 
