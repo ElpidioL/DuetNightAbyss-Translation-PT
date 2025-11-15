@@ -44,7 +44,8 @@ This is a fan-made translation that I created so my girlfriend could play the ga
    - Clique com o botão direito no atalho e vá em "Propriedades" (Properties)
    - No campo "Destino" (Target), adicione ` -fileopenlog` no final
    - Exemplo: `"C:\...\EM-Win64-Shipping.exe" -fileopenlog`
-   - *(Screenshots serão adicionadas posteriormente)*
+   - <img width="368" height="136" alt="image" src="https://github.com/user-attachments/assets/91ab0368-f392-493e-b342-8a751905082e" />
+
 
 5. **Execute como Administrador:**
 
@@ -82,7 +83,8 @@ This is a fan-made translation that I created so my girlfriend could play the ga
    - Right-click the shortcut and go to "Properties"
    - In the "Target" field, add ` -fileopenlog` at the end
    - Example: `"C:\...\EM-Win64-Shipping.exe" -fileopenlog`
-   - *(Screenshots will be added later)*
+   - <img width="368" height="136" alt="image" src="https://github.com/user-attachments/assets/588fe477-f74f-4dea-a2cc-9ada43341207" />
+
 
 5. **Run as Administrator:**
 
